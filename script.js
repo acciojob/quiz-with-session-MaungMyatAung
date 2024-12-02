@@ -1,5 +1,11 @@
 //your JS code here.
+function calculateArea(length, width) {
+  return length * width;
+}
 
+function calculatePerimeter(length, width) {
+  return 2 * (length + width);
+	
 // Do not change code below this line
 // This code will just display the questions to the screen
 const questions = [
